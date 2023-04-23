@@ -12,7 +12,7 @@ This Twitter bot recommends a random book every day based on the "word of the da
 1. Clone this repository to your local machine
 
 ```
-git clone https://github.com/Aktilor/twitter-bot-bookgit
+git clone https://github.com/Aktilor/twitter-bot-book.git
 ```
 
 2. Go to the project directory
