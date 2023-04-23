@@ -1,3 +1,3 @@
 module.exports = {
-  tweet_interval: 10000,
+  tweet_interval: 86400,
 };
