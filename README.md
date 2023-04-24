@@ -6,7 +6,7 @@ This Twitter bot recommends a random book every day based on the "word of the da
 ## Requirements
 - 📦 Node.js (version 14 or higher recommended)
 - 🐦 Twitter Developer account with Elevated access (Thank you Elon 🙃) and API keys
-- 📚 Open Library API key
+- 💎 RapidAPI free account
 
 ## Installation
 1. Clone this repository to your local machine
